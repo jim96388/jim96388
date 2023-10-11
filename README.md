@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Jim Chen</h1>
 <h3 align="center">M.S Student from Taiwan Tech.</h3>
