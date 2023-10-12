@@ -42,7 +42,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
 
-</td></tr></table>  
+</td></tr valign="top" width="33%"></table>  
 
 <br/>  
 
